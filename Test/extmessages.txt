@@ -1,0 +1,24 @@
+&mymessage=SEND YOUR GREETINGS HERE&
+
+
+Note 1: -
+Just change the text you see in capitals on top between "=" and "&"
+and what ever you type in between them will appear in your clock.
+Remember to send both files together  (the clock and the text file)
+to anyone you want and they will see your greetings or message.
+
+Note 2: -
+To see the text displayed in the clock dial both files have to be 
+together in the same directory.
+
+
+Note 3:-
+If you are using this clock on your website then keep both the files together
+in the same directory and keep a file in the same directory as your webpage
+on which you have embedded the flash clock.
+
+Embed code for Flash clock is given below (remember to change the width and height as required)
+
+<object id="flash1" data="http://www.matsclock.com/swf/matsclocks.swf" style="width: 500px; height: 500px" type="application/x-shockwave-flash">
+<param name="movie" value="http://www.matsclock.com/swf/matsclocks.swf" />
+</object>
